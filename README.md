@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-tren-de-la-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for El tren de la medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-tren-de-la-medianoche/) |
+| **Get License** | [Get License For El tren de la medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-tren-de-la-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Súbete conmigo al tren de la medianoche
+> Deja que el instinto tome el mando del coche
+> Cruzando por la ciudad, perdiendo la razón
+> Nena, tú eres la dueña de mi tentación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
