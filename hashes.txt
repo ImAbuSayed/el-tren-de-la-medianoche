@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El tren de la medianoche
+
+This log tracks the cryptographic history and versioning for the song **El tren de la medianoche** (el-tren-de-la-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T10:56:52.747860 | `v1` | `bf2c8101a7f52966494bd033c803029752316942dcf10efda1f97cdc3a1bdaca` | `90b403d2c921c4cec71e9bb05fc84d910bf75ff9307aa9874c8996f9ff60dd89` | `2026-06-15_el-tren-de-la-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

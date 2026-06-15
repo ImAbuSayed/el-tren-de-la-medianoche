@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-tren-de-la-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For El tren de la medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-tren-de-la-medianoche/) |
+| **Get License** | [License this song: El tren de la medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-tren-de-la-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bf2c8101a7f52966494bd033c803029752316942dcf10efda1f97cdc3a1bdaca` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
